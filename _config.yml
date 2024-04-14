@@ -24,7 +24,7 @@ author:
   avatar           : "avatar.png"
   name             : "Xuan Yang"
   pronouns         : # example: "she/her"  
-  bio              : "a junior student in the Department of Computer Science and Technology at Southern University of Science and Technology."
+  bio              : "Junior undergraduate in the Department of Computer Science and Technology at Southern University of Science and Technology."
   location         : "Shenzhen, China"
   employer         : "SUSTECH"
   uri              : # URL
@@ -54,7 +54,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "torresyang6184"
+  instagram        : #"torresyang6184"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "Jason4YX"  # Replace this with your X / Twitter handle
+  twitter          : #"Jason4YX"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
