@@ -13,4 +13,4 @@ I'm very fortunate to be advised by [Prof.Xuan Song](https://www.sustech.edu.cn/
 
 I am currently pursuing a **Ph.D.** in Computer Science and am enthusiastic about enhancing my scientific research ability and experience.
 
-You can find my CV here: [CV-Xuan Yang](../assets/CV_Xuan_Yang.pdf)
+You can find my CV here: [CV-Xuan Yang](../assets/CV_Xuan_Yang.pdf).
