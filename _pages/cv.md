@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-### Curriculum Vitae
-
 You can find my CV here: [CV-Xuan Yang](../assets/CV_Xuan_Yang.pdf).
