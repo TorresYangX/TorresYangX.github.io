@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-02-08-Pre-training for transportation mode detection
 excerpt: 'This paper is about the pre-training bert for transportation mode detection'
 date: 2024-02-08
-venue: 'SIGKDD 2024'
+venue: 'SIGKDD'
 paperurl: #'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Jianan Xie, Dou Huang, Haoran Zhang, Xuan Yang, et al., “Pre‑training for transportation mode detection”'
 ---

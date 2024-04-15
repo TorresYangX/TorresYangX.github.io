@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-02-08-Reconstructing Trajectories with Transformer Variational AutoEncoder
 excerpt: 'This paper is about the reconstrcution of low-quality trajectory dataset'
 date: 2024-02-08
-venue: 'SIGKDD 2024'
+venue: 'SIGKDD'
 paperurl: #'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Xuan Yang, Dou Huang, Haoran Zhang, Jianan Xie & Yebei Gou, “Reconstructing Trajectories with Transformer Variational AutoEncoder”'
 ---
