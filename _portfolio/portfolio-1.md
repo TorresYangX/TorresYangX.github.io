@@ -1,7 +1,7 @@
 ---
 title: "Traffic Sign Detection and Recognition"
-excerpt: "Improved the accuracy of Yolov8 in the recognition of traffic signs by 2% through HSV and MSER augmentation<br/><img src='/images/framework.png'>"
+excerpt: "Techniques: HSV, MSER, Yolov8<br/><img src='/images/framework.png'>"
 collection: portfolio
 ---
 
-HSV and MSER are used for data augmentation to highlight pixels in the image that may be more likely to have traffic signs. The recognition accuracy of Yolov8 is improved by 2%. Experiments are conducted on tt100k dataset, which has over 100K traffic sign images.
+HSV and MSER are utilized in data augmentation to emphasize pixels in images that are more likely to contain traffic signs. This technique enhances the recognition accuracy of Yolov8 by 2%. We conducted our experiments on the tt100k dataset, which comprises over 100,000 traffic sign images.
