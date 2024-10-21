@@ -51,7 +51,7 @@
           <tr onmouseout="samurai_stop()" onmouseover="samurai_start()">
             <td style="padding:20px;width:31%;vertical-align:middle">
               <div class="one">
-                <img src='images/SafeAuto.jpg' width="260" height="140">
+                <img src='images/SafeAuto.png' width="260" height="140">
               </div>
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle">
@@ -63,7 +63,7 @@
               <br>
               <em>ICLR</em>, 2025
               <p>
-              - We propose a novel framework SafeAuto that enhances MLLMs for autonomous driving through three key contributions. Concretely, we propose a PDCE loss that retains the autoregressive nature of the MLLM while behaving like an MSE loss during training, and we employ Markov Logic Networks(MLN) to explicitly encode domain knowledge and structured traffic rules into the decision-making process of the MLLM. Moreover, We introduce a method that utilizes video data, control signals, and the environmental predicates used in the MLN to retrieve similar driving experiences.<br>
+              - We propose a novel framework, SafeAuto, to enhance multimodal large language models (MLLMs) for autonomous driving through three key contributions. First, we introduce the Place-Dependent Cross-Entropy (PDCE) loss, which preserves the autoregressive nature of MLLMs while functioning similarly to an MSE loss during training. Second, we employ Markov Logic Networks (MLN) to explicitly encode domain knowledge and structured traffic rules into the decision-making process. Finally, we present a method that leverages video data, control signals, and environmental predicates from the MLN to retrieve similar driving experiences, further improving decision-making accuracy.<br>
               <!-- <font color="red">SOTA Certified RMSE and  on ImageNet:</font> 77.2%, 63.2%, 53.0% under L2 radius 0.5, 1.0, 1.5, respectively. As a comparison, the current best results are 71.1%, 54.3%, and 38.1%. -->
               </p>
             </td>
@@ -80,11 +80,10 @@
                 <papertitle>Reconstructing Trajectories with Transformer Variational AutoEncoder</papertitle>
               </a>
               <br>
-              <b>Jiawei Zhang</b>, Linyi Li, Ce Zhang, Bo Li
+              <b>Xuan Yang</b>, Dou Huang, Haoran Zhang, Jianan Xie, Yebei Gou, Xuan Song
               <br>
-              <em>IEEE Conference on Secure and Trustworthy Machine Learning</em>, 2023
               <p>
-              - We propose a certifiably robust learning with reasoning pipeline (CARE), which consists of a learning component and a reasoning component. Concretely, we use a set of standard DNNs to serve as the learning component to make semantic predictions, and we leverage the probabilistic graphical models, such as Markov logic networks (MLN), to serve as the reasoning component to enable knowledge/logic reasoning.
+              - We propose a transformer autoencoder model based on the Nonparametric Variational AutoEncoder (NVAE) to extract latent features from mobility trajectories. To reconstruct the original trajectory, we use KDTree to search for similar trajectories. Our model's effectiveness is demonstrated on the Geolife and Porto Taxi datasets, where it achieves superior performance compared to state-of-the-art methods in terms of trajectory reconstruction accuracy.<br>
               </p>
             </td>
           </tr>		
